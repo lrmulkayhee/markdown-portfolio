@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Lauren Mulcahy
+## beginner software devloper and planet enthusiast
+### needs more friends
